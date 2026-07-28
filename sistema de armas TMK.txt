@@ -1,0 +1,44 @@
+Arma Branca
+Espada		Ataque em arco de 180°, acerta todos os inimigos à frente.
+Machado		Golpe lento que empurra os inimigos para trás.
+Lança		Perfura todos os inimigos em linha reta. Médio Alcance.
+Martelo		Ataque lento com impacto em área ao atingir o chão.
+Foice		Gira ao redor do personagem continuamente.
+Faca		Ataque rápido e curto a frente que causa sangramento.
+
+Arma fogo
+Arco Longo	Flechas atravessam vários inimigos.
+Arcabuz		Disparo extremamente rápido com pouco dano.
+Besta Pesada	Tiro lento com dano muito alto.
+Pistola		Dispara rapidamente no alvo mais próximo.
+Rifle		Alcance enorme e chance alta de crítico.
+Escopeta	Dispara vários projéteis em cone.
+
+Magia
+Orbe Arcano	Projétil perseguidor (Homing).
+Cajado de Gelo	Congela ou reduz drasticamente a velocidade dos inimigos.
+Cajado de Fogo	Deixa queimadura que causa dano contínuo.
+Cajado de Raio	O raio salta entre vários inimigos.
+Totem Elemental	Invoca um totem que ataca automaticamente.
+Esfera do Vazio	Atrai inimigos para o centro antes de explodir.
+
+Explosivos
+Bomba de Pólvora	Explode em área.
+Canhão Portátil		Disparo lento com explosão gigantesca.
+Foguete			Grande velocidade e explosão massiva.
+Bomba de Fragmentação	Após explodir gera várias mini explosões.
+Mina			Fica no chão aguardando um inimigo passar.
+Barril Explosivo	Pode ser empurrado e explode ao contato.
+
+LENDARIAS
+Branca
+Excalibur → dispara ondas de energia a cada golpe.
+
+Fogo
+Metralhadora Anã → centenas de projéteis com precisão reduzida.
+
+Magia
+Grimório Proibido → lança feitiços aleatórios continuamente.
+
+Explosivos
+Núcleo Instável → explosões em cadeia enquanto houver inimigos próximos.
